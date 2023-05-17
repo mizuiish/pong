@@ -9,7 +9,7 @@ Este é um clone do clássico jogo Pong desenvolvido usando a biblioteca p5.js e
 * Cada vez que a bola passa pela raquete da esquerda, o oponente marca um ponto.
 
 ### Como executar
-Acesse a página do [jogo](https://mizuiish.github.io/pong/)
+Acesse a página do [jogo](https://mizuiish.github.io/pong/).
 
 ### Recursos adicionais
 Além da funcionalidade básica do jogo Pong, esta implementação também inclui recursos adicionais:
