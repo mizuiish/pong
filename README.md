@@ -1,4 +1,4 @@
-# pong
+# Pong
 
 Este é um clone do clássico jogo Pong desenvolvido usando a biblioteca p5.js em JavaScript.
 
